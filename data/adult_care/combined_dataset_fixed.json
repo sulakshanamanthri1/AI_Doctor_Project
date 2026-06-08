@@ -1,0 +1,34 @@
+[
+    {
+        "question": "I feel stressed",
+        "answer": "Try deep breathing, take short breaks, and talk to someone you trust."
+    },
+    {
+        "question": "I feel anxious",
+        "answer": "Practice mindfulness, slow breathing, and reduce caffeine intake."
+    },
+    {
+        "question": "I cannot sleep",
+        "answer": "Maintain a regular sleep schedule and avoid screens before bedtime."
+    },
+    {
+        "question": "I feel depressed",
+        "answer": "Talking to a counselor, friend, or family member can help. Consider professional support."
+    },
+    {
+        "question": "I feel lonely",
+        "answer": "Try connecting with friends, joining communities, or engaging in hobbies you enjoy."
+    },
+    {
+        "question": "I feel overwhelmed",
+        "answer": "Break tasks into smaller steps and focus on one thing at a time."
+    },
+    {
+        "question": "I feel tired all the time",
+        "answer": "Ensure proper sleep, hydration, and balanced nutrition."
+    },
+    {
+        "question": "I am overthinking",
+        "answer": "Write down your thoughts and focus on what you can control."
+    }
+]

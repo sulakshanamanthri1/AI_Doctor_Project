@@ -1,0 +1,218 @@
+Disease,Medicine,Dosage,Drug_Type
+Fungal infection,Clotrimazole,Apply twice daily,Antifungal
+Allergy,Cetirizine,10 mg once daily,Antihistamine
+GERD,Omeprazole,20 mg once daily,Proton Pump Inhibitor
+Chronic cholestasis,Ursodeoxycholic acid,300 mg twice daily,Hepatoprotective
+Drug Reaction,Loratadine,10 mg once daily,Antihistamine
+Peptic ulcer disease,Pantoprazole,40 mg daily,Proton Pump Inhibitor
+AIDS,Antiretroviral therapy,As prescribed,Antiviral
+Diabetes,Metformin,500 mg twice daily,Antidiabetic
+Gastroenteritis,Oral Rehydration Solution,After each loose stool,Rehydration Therapy
+Bronchial Asthma,Salbutamol inhaler,2 puffs when needed,Bronchodilator
+Hypertension,Amlodipine,5 mg daily,Calcium Channel Blocker
+Migraine,Ibuprofen,200-400 mg every 6 hours,NSAID
+Cervical spondylosis,Diclofenac,50 mg twice daily,NSAID
+Jaundice,Silymarin,140 mg three times daily,Hepatoprotective
+Malaria,Artemisinin combination therapy,As prescribed,Antimalarial
+Chicken pox,Calamine lotion,Apply to rash,Topical soothing agent
+Dengue,Paracetamol,500 mg every 6 hours,Analgesic
+Typhoid,Azithromycin,500 mg daily,Antibiotic
+Tuberculosis,Isoniazid + Rifampicin,As prescribed,Antitubercular
+Common Cold,Chlorpheniramine,4 mg every 6 hours,Antihistamine
+Pneumonia,Amoxicillin,500 mg three times daily,Antibiotic
+Heart attack,Aspirin,150 mg immediately,Antiplatelet
+Hypothyroidism,Levothyroxine,25–100 mcg daily,Thyroid hormone
+Hyperthyroidism,Methimazole,5–20 mg daily,Antithyroid
+Hypoglycemia,Glucose tablets,As needed,Glucose supplement
+Osteoarthritis,Paracetamol,500 mg three times daily,Analgesic
+Arthritis,Naproxen,250 mg twice daily,NSAID
+Acne,Benzoyl peroxide gel,Apply once daily,Topical antibiotic
+Urinary tract infection,Nitrofurantoin,100 mg twice daily,Antibiotic
+Psoriasis,Topical corticosteroids,Apply twice daily,Immunosuppressant
+Impetigo,Mupirocin ointment,Apply three times daily,Topical antibiotic
+Fungal infection type 1,Clotrimazole,Apply twice daily,Antifungal
+Allergy type 1,Cetirizine,10 mg once daily,Antihistamine
+GERD type 1,Omeprazole,20 mg once daily,Proton Pump Inhibitor
+Chronic cholestasis type 1,Ursodeoxycholic acid,300 mg twice daily,Hepatoprotective
+Drug Reaction type 1,Loratadine,10 mg once daily,Antihistamine
+Peptic ulcer disease type 1,Pantoprazole,40 mg daily,Proton Pump Inhibitor
+AIDS type 1,Antiretroviral therapy,As prescribed,Antiviral
+Diabetes type 1,Metformin,500 mg twice daily,Antidiabetic
+Gastroenteritis type 1,Oral Rehydration Solution,After each loose stool,Rehydration Therapy
+Bronchial Asthma type 1,Salbutamol inhaler,2 puffs when needed,Bronchodilator
+Hypertension type 1,Amlodipine,5 mg daily,Calcium Channel Blocker
+Migraine type 1,Ibuprofen,200-400 mg every 6 hours,NSAID
+Cervical spondylosis type 1,Diclofenac,50 mg twice daily,NSAID
+Jaundice type 1,Silymarin,140 mg three times daily,Hepatoprotective
+Malaria type 1,Artemisinin combination therapy,As prescribed,Antimalarial
+Chicken pox type 1,Calamine lotion,Apply to rash,Topical soothing agent
+Dengue type 1,Paracetamol,500 mg every 6 hours,Analgesic
+Typhoid type 1,Azithromycin,500 mg daily,Antibiotic
+Tuberculosis type 1,Isoniazid + Rifampicin,As prescribed,Antitubercular
+Common Cold type 1,Chlorpheniramine,4 mg every 6 hours,Antihistamine
+Pneumonia type 1,Amoxicillin,500 mg three times daily,Antibiotic
+Heart attack type 1,Aspirin,150 mg immediately,Antiplatelet
+Hypothyroidism type 1,Levothyroxine,25–100 mcg daily,Thyroid hormone
+Hyperthyroidism type 1,Methimazole,5–20 mg daily,Antithyroid
+Hypoglycemia type 1,Glucose tablets,As needed,Glucose supplement
+Osteoarthritis type 1,Paracetamol,500 mg three times daily,Analgesic
+Arthritis type 1,Naproxen,250 mg twice daily,NSAID
+Acne type 1,Benzoyl peroxide gel,Apply once daily,Topical antibiotic
+Urinary tract infection type 1,Nitrofurantoin,100 mg twice daily,Antibiotic
+Psoriasis type 1,Topical corticosteroids,Apply twice daily,Immunosuppressant
+Impetigo type 1,Mupirocin ointment,Apply three times daily,Topical antibiotic
+Fungal infection type 2,Clotrimazole,Apply twice daily,Antifungal
+Allergy type 2,Cetirizine,10 mg once daily,Antihistamine
+GERD type 2,Omeprazole,20 mg once daily,Proton Pump Inhibitor
+Chronic cholestasis type 2,Ursodeoxycholic acid,300 mg twice daily,Hepatoprotective
+Drug Reaction type 2,Loratadine,10 mg once daily,Antihistamine
+Peptic ulcer disease type 2,Pantoprazole,40 mg daily,Proton Pump Inhibitor
+AIDS type 2,Antiretroviral therapy,As prescribed,Antiviral
+Diabetes type 2,Metformin,500 mg twice daily,Antidiabetic
+Gastroenteritis type 2,Oral Rehydration Solution,After each loose stool,Rehydration Therapy
+Bronchial Asthma type 2,Salbutamol inhaler,2 puffs when needed,Bronchodilator
+Hypertension type 2,Amlodipine,5 mg daily,Calcium Channel Blocker
+Migraine type 2,Ibuprofen,200-400 mg every 6 hours,NSAID
+Cervical spondylosis type 2,Diclofenac,50 mg twice daily,NSAID
+Jaundice type 2,Silymarin,140 mg three times daily,Hepatoprotective
+Malaria type 2,Artemisinin combination therapy,As prescribed,Antimalarial
+Chicken pox type 2,Calamine lotion,Apply to rash,Topical soothing agent
+Dengue type 2,Paracetamol,500 mg every 6 hours,Analgesic
+Typhoid type 2,Azithromycin,500 mg daily,Antibiotic
+Tuberculosis type 2,Isoniazid + Rifampicin,As prescribed,Antitubercular
+Common Cold type 2,Chlorpheniramine,4 mg every 6 hours,Antihistamine
+Pneumonia type 2,Amoxicillin,500 mg three times daily,Antibiotic
+Heart attack type 2,Aspirin,150 mg immediately,Antiplatelet
+Hypothyroidism type 2,Levothyroxine,25–100 mcg daily,Thyroid hormone
+Hyperthyroidism type 2,Methimazole,5–20 mg daily,Antithyroid
+Hypoglycemia type 2,Glucose tablets,As needed,Glucose supplement
+Osteoarthritis type 2,Paracetamol,500 mg three times daily,Analgesic
+Arthritis type 2,Naproxen,250 mg twice daily,NSAID
+Acne type 2,Benzoyl peroxide gel,Apply once daily,Topical antibiotic
+Urinary tract infection type 2,Nitrofurantoin,100 mg twice daily,Antibiotic
+Psoriasis type 2,Topical corticosteroids,Apply twice daily,Immunosuppressant
+Impetigo type 2,Mupirocin ointment,Apply three times daily,Topical antibiotic
+Fungal infection type 3,Clotrimazole,Apply twice daily,Antifungal
+Allergy type 3,Cetirizine,10 mg once daily,Antihistamine
+GERD type 3,Omeprazole,20 mg once daily,Proton Pump Inhibitor
+Chronic cholestasis type 3,Ursodeoxycholic acid,300 mg twice daily,Hepatoprotective
+Drug Reaction type 3,Loratadine,10 mg once daily,Antihistamine
+Peptic ulcer disease type 3,Pantoprazole,40 mg daily,Proton Pump Inhibitor
+AIDS type 3,Antiretroviral therapy,As prescribed,Antiviral
+Diabetes type 3,Metformin,500 mg twice daily,Antidiabetic
+Gastroenteritis type 3,Oral Rehydration Solution,After each loose stool,Rehydration Therapy
+Bronchial Asthma type 3,Salbutamol inhaler,2 puffs when needed,Bronchodilator
+Hypertension type 3,Amlodipine,5 mg daily,Calcium Channel Blocker
+Migraine type 3,Ibuprofen,200-400 mg every 6 hours,NSAID
+Cervical spondylosis type 3,Diclofenac,50 mg twice daily,NSAID
+Jaundice type 3,Silymarin,140 mg three times daily,Hepatoprotective
+Malaria type 3,Artemisinin combination therapy,As prescribed,Antimalarial
+Chicken pox type 3,Calamine lotion,Apply to rash,Topical soothing agent
+Dengue type 3,Paracetamol,500 mg every 6 hours,Analgesic
+Typhoid type 3,Azithromycin,500 mg daily,Antibiotic
+Tuberculosis type 3,Isoniazid + Rifampicin,As prescribed,Antitubercular
+Common Cold type 3,Chlorpheniramine,4 mg every 6 hours,Antihistamine
+Pneumonia type 3,Amoxicillin,500 mg three times daily,Antibiotic
+Heart attack type 3,Aspirin,150 mg immediately,Antiplatelet
+Hypothyroidism type 3,Levothyroxine,25–100 mcg daily,Thyroid hormone
+Hyperthyroidism type 3,Methimazole,5–20 mg daily,Antithyroid
+Hypoglycemia type 3,Glucose tablets,As needed,Glucose supplement
+Osteoarthritis type 3,Paracetamol,500 mg three times daily,Analgesic
+Arthritis type 3,Naproxen,250 mg twice daily,NSAID
+Acne type 3,Benzoyl peroxide gel,Apply once daily,Topical antibiotic
+Urinary tract infection type 3,Nitrofurantoin,100 mg twice daily,Antibiotic
+Psoriasis type 3,Topical corticosteroids,Apply twice daily,Immunosuppressant
+Impetigo type 3,Mupirocin ointment,Apply three times daily,Topical antibiotic
+Fungal infection type 4,Clotrimazole,Apply twice daily,Antifungal
+Allergy type 4,Cetirizine,10 mg once daily,Antihistamine
+GERD type 4,Omeprazole,20 mg once daily,Proton Pump Inhibitor
+Chronic cholestasis type 4,Ursodeoxycholic acid,300 mg twice daily,Hepatoprotective
+Drug Reaction type 4,Loratadine,10 mg once daily,Antihistamine
+Peptic ulcer disease type 4,Pantoprazole,40 mg daily,Proton Pump Inhibitor
+AIDS type 4,Antiretroviral therapy,As prescribed,Antiviral
+Diabetes type 4,Metformin,500 mg twice daily,Antidiabetic
+Gastroenteritis type 4,Oral Rehydration Solution,After each loose stool,Rehydration Therapy
+Bronchial Asthma type 4,Salbutamol inhaler,2 puffs when needed,Bronchodilator
+Hypertension type 4,Amlodipine,5 mg daily,Calcium Channel Blocker
+Migraine type 4,Ibuprofen,200-400 mg every 6 hours,NSAID
+Cervical spondylosis type 4,Diclofenac,50 mg twice daily,NSAID
+Jaundice type 4,Silymarin,140 mg three times daily,Hepatoprotective
+Malaria type 4,Artemisinin combination therapy,As prescribed,Antimalarial
+Chicken pox type 4,Calamine lotion,Apply to rash,Topical soothing agent
+Dengue type 4,Paracetamol,500 mg every 6 hours,Analgesic
+Typhoid type 4,Azithromycin,500 mg daily,Antibiotic
+Tuberculosis type 4,Isoniazid + Rifampicin,As prescribed,Antitubercular
+Common Cold type 4,Chlorpheniramine,4 mg every 6 hours,Antihistamine
+Pneumonia type 4,Amoxicillin,500 mg three times daily,Antibiotic
+Heart attack type 4,Aspirin,150 mg immediately,Antiplatelet
+Hypothyroidism type 4,Levothyroxine,25–100 mcg daily,Thyroid hormone
+Hyperthyroidism type 4,Methimazole,5–20 mg daily,Antithyroid
+Hypoglycemia type 4,Glucose tablets,As needed,Glucose supplement
+Osteoarthritis type 4,Paracetamol,500 mg three times daily,Analgesic
+Arthritis type 4,Naproxen,250 mg twice daily,NSAID
+Acne type 4,Benzoyl peroxide gel,Apply once daily,Topical antibiotic
+Urinary tract infection type 4,Nitrofurantoin,100 mg twice daily,Antibiotic
+Psoriasis type 4,Topical corticosteroids,Apply twice daily,Immunosuppressant
+Impetigo type 4,Mupirocin ointment,Apply three times daily,Topical antibiotic
+Fungal infection type 5,Clotrimazole,Apply twice daily,Antifungal
+Allergy type 5,Cetirizine,10 mg once daily,Antihistamine
+GERD type 5,Omeprazole,20 mg once daily,Proton Pump Inhibitor
+Chronic cholestasis type 5,Ursodeoxycholic acid,300 mg twice daily,Hepatoprotective
+Drug Reaction type 5,Loratadine,10 mg once daily,Antihistamine
+Peptic ulcer disease type 5,Pantoprazole,40 mg daily,Proton Pump Inhibitor
+AIDS type 5,Antiretroviral therapy,As prescribed,Antiviral
+Diabetes type 5,Metformin,500 mg twice daily,Antidiabetic
+Gastroenteritis type 5,Oral Rehydration Solution,After each loose stool,Rehydration Therapy
+Bronchial Asthma type 5,Salbutamol inhaler,2 puffs when needed,Bronchodilator
+Hypertension type 5,Amlodipine,5 mg daily,Calcium Channel Blocker
+Migraine type 5,Ibuprofen,200-400 mg every 6 hours,NSAID
+Cervical spondylosis type 5,Diclofenac,50 mg twice daily,NSAID
+Jaundice type 5,Silymarin,140 mg three times daily,Hepatoprotective
+Malaria type 5,Artemisinin combination therapy,As prescribed,Antimalarial
+Chicken pox type 5,Calamine lotion,Apply to rash,Topical soothing agent
+Dengue type 5,Paracetamol,500 mg every 6 hours,Analgesic
+Typhoid type 5,Azithromycin,500 mg daily,Antibiotic
+Tuberculosis type 5,Isoniazid + Rifampicin,As prescribed,Antitubercular
+Common Cold type 5,Chlorpheniramine,4 mg every 6 hours,Antihistamine
+Pneumonia type 5,Amoxicillin,500 mg three times daily,Antibiotic
+Heart attack type 5,Aspirin,150 mg immediately,Antiplatelet
+Hypothyroidism type 5,Levothyroxine,25–100 mcg daily,Thyroid hormone
+Hyperthyroidism type 5,Methimazole,5–20 mg daily,Antithyroid
+Hypoglycemia type 5,Glucose tablets,As needed,Glucose supplement
+Osteoarthritis type 5,Paracetamol,500 mg three times daily,Analgesic
+Arthritis type 5,Naproxen,250 mg twice daily,NSAID
+Acne type 5,Benzoyl peroxide gel,Apply once daily,Topical antibiotic
+Urinary tract infection type 5,Nitrofurantoin,100 mg twice daily,Antibiotic
+Psoriasis type 5,Topical corticosteroids,Apply twice daily,Immunosuppressant
+Impetigo type 5,Mupirocin ointment,Apply three times daily,Topical antibiotic
+Fungal infection type 6,Clotrimazole,Apply twice daily,Antifungal
+Allergy type 6,Cetirizine,10 mg once daily,Antihistamine
+GERD type 6,Omeprazole,20 mg once daily,Proton Pump Inhibitor
+Chronic cholestasis type 6,Ursodeoxycholic acid,300 mg twice daily,Hepatoprotective
+Drug Reaction type 6,Loratadine,10 mg once daily,Antihistamine
+Peptic ulcer disease type 6,Pantoprazole,40 mg daily,Proton Pump Inhibitor
+AIDS type 6,Antiretroviral therapy,As prescribed,Antiviral
+Diabetes type 6,Metformin,500 mg twice daily,Antidiabetic
+Gastroenteritis type 6,Oral Rehydration Solution,After each loose stool,Rehydration Therapy
+Bronchial Asthma type 6,Salbutamol inhaler,2 puffs when needed,Bronchodilator
+Hypertension type 6,Amlodipine,5 mg daily,Calcium Channel Blocker
+Migraine type 6,Ibuprofen,200-400 mg every 6 hours,NSAID
+Cervical spondylosis type 6,Diclofenac,50 mg twice daily,NSAID
+Jaundice type 6,Silymarin,140 mg three times daily,Hepatoprotective
+Malaria type 6,Artemisinin combination therapy,As prescribed,Antimalarial
+Chicken pox type 6,Calamine lotion,Apply to rash,Topical soothing agent
+Dengue type 6,Paracetamol,500 mg every 6 hours,Analgesic
+Typhoid type 6,Azithromycin,500 mg daily,Antibiotic
+Tuberculosis type 6,Isoniazid + Rifampicin,As prescribed,Antitubercular
+Common Cold type 6,Chlorpheniramine,4 mg every 6 hours,Antihistamine
+Pneumonia type 6,Amoxicillin,500 mg three times daily,Antibiotic
+Heart attack type 6,Aspirin,150 mg immediately,Antiplatelet
+Hypothyroidism type 6,Levothyroxine,25–100 mcg daily,Thyroid hormone
+Hyperthyroidism type 6,Methimazole,5–20 mg daily,Antithyroid
+Hypoglycemia type 6,Glucose tablets,As needed,Glucose supplement
+Osteoarthritis type 6,Paracetamol,500 mg three times daily,Analgesic
+Arthritis type 6,Naproxen,250 mg twice daily,NSAID
+Acne type 6,Benzoyl peroxide gel,Apply once daily,Topical antibiotic
+Urinary tract infection type 6,Nitrofurantoin,100 mg twice daily,Antibiotic
+Psoriasis type 6,Topical corticosteroids,Apply twice daily,Immunosuppressant
+Impetigo type 6,Mupirocin ointment,Apply three times daily,Topical antibiotic
